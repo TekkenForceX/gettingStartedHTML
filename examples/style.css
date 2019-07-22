@@ -37,3 +37,20 @@ form{
 ul{
     font-weight: 900;
 }
+
+div{
+    background-color: green;
+    font-style: italic;
+}
+
+#blockOne{
+    background-color: indigo;
+}
+
+.daBlocks{
+    background-color: skyblue;
+}
+
+.Meep{
+    background-color: red;
+}
