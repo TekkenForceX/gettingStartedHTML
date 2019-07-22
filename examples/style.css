@@ -1,0 +1,39 @@
+body{
+    background-color: purple;
+}
+
+img{
+    width: 500px;
+
+}
+
+h1{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: red;
+    text-decoration: line-through;
+}
+
+ul{
+    color: yellow;
+}
+
+li{
+    color: aqua;
+
+}
+
+table{
+    color: green;
+}
+
+form{
+    color: white;
+}
+
+ul{
+    font-weight: 900;
+}
