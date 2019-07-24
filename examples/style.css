@@ -13,9 +13,7 @@ h1{
 
 p{
     text-align: center;
-    color: red;
-    text-decoration: line-through;
-}
+ }
 
 ul{
     color: yellow;
@@ -53,4 +51,104 @@ div{
 
 .Meep{
     background-color: red;
+}
+
+#static{
+    background-color: mistyrose;
+    font-size: 12px;
+    font-style: serif;
+    color: blue;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 110px;
+    width: 15%;
+
+}
+
+#relative{
+    background-color: lightcoral;
+    font-size: 18px;
+    font-style: sans-serif;
+    color: black;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 120px;
+    width: 30%;
+
+}
+
+#fixed{
+    background-color: darkorchid;
+    font-size: 24px;
+    font-style: monospace;
+    color:brown;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 130px;
+    width: 45%;
+
+}
+
+#absolute{
+    background-color: aqua;
+    font-size: 30px;
+    font-style: unset;
+    color: chartreuse;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 140px;
+    width: 60%;
+
+}
+
+#sticky{
+    background-color: black;
+    font-size: 36px;
+    font-style: normal;
+    color: pink;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    height: 150px;
+    width: 60%;
+
 }
