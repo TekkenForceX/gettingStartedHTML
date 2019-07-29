@@ -10,6 +10,9 @@ p{
     border: 4px dotted red;
     border: 10px solid green;
     padding-top: 30px;
+    position: relative;
+    left: 50px;
+    top: 100px;
 }
 
 h1{
@@ -44,4 +47,11 @@ div{
     width: 200px;
     padding: 25px;
     border: 25px solid purple;
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+}
+
+#zuko{
+    z-index: -1;
 }
