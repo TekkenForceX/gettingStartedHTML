@@ -47,10 +47,14 @@ div{
 
 .daBlocks{
     background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 .Meep{
     background-color: red;
+    font-family: 'Saira Stencil One', cursive;
+
 }
 
 #static{
