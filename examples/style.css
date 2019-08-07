@@ -156,3 +156,8 @@ div{
     width: 60%;
 
 }
+
+a:hover {
+  color: #FF00FF;
+  text-decoration: underline;
+}
